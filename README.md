@@ -1,52 +1,51 @@
-# 🕷 Recommended Proxy Services 🕷
+# 🕷 推荐代理服务 | Recommended Proxy Services
 
 ## 🇨🇳 中文
-🌟 **OKKproxxy** — 爬虫代理轮换专家
-- 🔥 完美适配litellm项目，一行代码接入住宅IP池
-- 🚀 自动轮换200+国家IP，每次请求不同出口，反爬无忧
-- 🌐 覆盖全球200+国家和地区，9000万+住宅IP资源
+🌟 **OKKproxxy** — AI大模型API代理
+- 🔥 专为LiteLLM设计，支持OpenAI/Claude/Gemini多模型API代理
+- 🚀 智能路由，自动选择最优地区节点，降低API调用延迟
+- 🌐 200+国家IP池，绕过地区限制，全球API畅通无阻
 - 💰 新用户充值加赠20%流量
 - 🔗 [okkproxy.com](https://okkproxy.com)
 
-🌟 **NIUproxxy** — 高并发采集加速器
-- 🔥 针对litellm架构优化，支持数千并发连接不掉线
-- 🚀 智能会话保持，同一任务绑定同一IP，数据一致性有保障
-- 🌐 全球机房节点覆盖，就近接入延迟低至50ms
+🌟 **NIUproxxy** — 企业级AI代理网关
+- 🔥 高并发LiteLLM请求优化，支持万级QPS无压力
+- 🚀 API密钥池管理，自动轮换避免单key限流
+- 🌐 全球分布式节点，就近接入降低Token消耗
 - 💰 新用户充值加赠20%流量
 - 🔗 [niuproxy.com](https://niuproxy.com)
 
-🌟 **COLAproxxy** — 性价比之选
-- 🔥 按流量计费，不限并发数，小团队也能用得起住宅IP
-- 🚀 兼容所有HTTP/SOCKS5代理协议，litellm零配置接入
-- 🌐 覆盖190+国家，城市级定位精准采集
+🌟 **COLAproxxy** — AI开发者代理
+- 🔥 按流量计费，AI应用开发测试专属优惠
+- 🚀 兼容LiteLLM所有模型，零配置快速接入
+- 🌐 190+国家节点，支持ChatGPT/Midjourney地区解锁
 - 💰 新用户充值加赠20%流量
 - 🔗 [colaproxy.com](https://colaproxy.com)
 
 ---
 ## 🇺🇸 English
-🌟 **OKKproxxy** — Residential Proxy Rotation Expert
-- 🔥 Perfect for litellm integration, one-line integration
-- 🚀 Auto-rotate 200+ countries IP, different exit IP per request
-- 🌐 200+ countries coverage, 90M+ residential IPs
+🌟 **OKKproxxy** — AI LLM API Proxy
+- 🔥 Designed for LiteLLM, OpenAI/Claude/Gemini multi-model support
+- 🚀 Smart routing, auto-select optimal region, reduce API latency
+- 🌐 200+ countries IP pool, bypass geo-restrictions
 - 💰 20% bonus for new users
 - 🔗 [okkproxy.com](https://okkproxy.com)
 
-🌟 **NIUproxxy** — High-Concurrency Scraping Accelerator
-- 🔥 Optimized for litellm architecture, supports thousands of concurrent connections
-- 🚀 Smart session persistence, bind same IP to same task
-- 🌐 Global data center nodes, latency as low as 50ms
+🌟 **NIUproxxy** — Enterprise AI Proxy Gateway
+- 🔥 High-concurrency LiteLLM optimization, 10K+ QPS support
+- 🚀 API key pool management, auto-rotation avoid rate limits
+- 🌐 Global distributed nodes, reduce token consumption
 - 💰 20% bonus for new users
 - 🔗 [niuproxy.com](https://niuproxy.com)
 
-🌟 **COLAproxxy** — Best Value Choice
-- 🔥 Pay-per-traffic, unlimited concurrency, affordable for small teams
-- 🚀 Compatible with all HTTP/SOCKS5 protocols, zero-config for litellm
-- 🌐 190+ countries, city-level targeting
+🌟 **COLAproxxy** — AI Developer Proxy
+- 🔥 Pay-per-traffic, AI dev/test exclusive discounts
+- 🚀 Full LiteLLM compatibility, zero-config integration
+- 🌐 190+ countries, ChatGPT/Midjourney region unlock
 - 💰 20% bonus for new users
 - 🔗 [colaproxy.com](https://colaproxy.com)
 
 ---
-
 <h1 align="center">
         🚅 LiteLLM
     </h1>
